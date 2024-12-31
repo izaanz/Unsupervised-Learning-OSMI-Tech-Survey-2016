@@ -18,7 +18,7 @@ Mental health is a significant concern in the workplace, especially in the techn
 To prepare and analyze the dataset, the following steps were undertaken: 
 1. **Data Understanding**: Explore the dataset structure, key columns, and target attributes for clustering. 
 2. **Data Cleaning**: Handle outliers in numerical columns. Impute missing values using advanced techniques like `KNNImputer`. 
-3. **Feature Engineering**: Encode categorical columns using manual and automatic techniques like `LabelEncoder`. 
+3. **Feature Engineering**: Encode categorical columns using manual and automatic techniques like `LabelEncoder` and `One-hot Encoding`. 
 4. **Scaling and Dimensionality Reduction**: Standardize numerical columns for consistent scaling. Apply `PCA` to reduce dimensionality while preserving 80% variance. 
 5. **Clustering**: Use `KMeans` clustering to group participants based on their survey responses. Determine the optimal number of clusters using methods like the elbow method, silhouette score, and Davies-Bouldin index. 
 6. **Insights and Visualization**: Interpret the clusters and visualize the results to derive meaningful insights.
