@@ -2,6 +2,8 @@
 # Mental Health in Tech - Clustering Analysis
 
 ## Introduction  
+- This project is a part of case study for DLBDSMLUSL01.
+
 Mental health is a significant concern in the workplace, especially in the technology sector, where stress and burnout are prevalent. Ensuring employees' mental well-being not only enhances productivity but also fosters a healthier work environment. This project analyzes the OSMI mental health survey dataset, which includes over 1,400 responses, to identify patterns and trends in mental health attitudes and prevalence within the tech industry. Using unsupervised machine learning techniques, the study aims to cluster participants based on their survey responses, enabling organizations to design targeted mental health programs for their employees.
 
 ## Objectives  
