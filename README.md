@@ -16,6 +16,9 @@ Mental health is a significant concern in the workplace, especially in the techn
 - **Source**: [OSMI Mental Health in Tech Survey (2016)](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)  
 - **Description**: Contains survey responses about mental health attitudes, workplace mental health support, and individual experiences with mental health disorders.
 
+![Clusters]([https://raw.githubusercontent.com/izaanz/Unsupervised-Learning-OSMI-Tech-Survey-2016/refs/heads/main/img/cluster%20profiles.png])
+
+
 ## Methodology  
 To prepare and analyze the dataset, the following steps were undertaken: 
 1. **Data Understanding**: Explore the dataset structure, key columns, and target attributes for clustering. 
