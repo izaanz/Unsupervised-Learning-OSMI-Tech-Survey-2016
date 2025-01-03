@@ -44,7 +44,7 @@ Cluster Analysis: The survey participants were grouped into meaningful clusters,
 Key Insights: Organizations can use these insights to implement targeted mental health support programs, address stigma, and foster healthier work environments.
 ## Clone this repository:
 ```bash
-git clone https://github.com/your-username/mental-health-clustering.git
+git clone https://github.com/izaanz/mental-health-clustering.git
 ```
 Install the required libraries:
 ```bash
